@@ -47,4 +47,4 @@ Dive into my SQL learnings, where I apply core database concepts to extract, cle
 | Project | Completion Date | Tools Used | Description |
 |---------|-----------------|------------|-------------|
 | 📝 **[SQL Basics and Advanced Queries](https://github.com/yourusername/your-repo-name/blob/main/sql_basics.ipynb)** | April 2025 | SSMS | Explored SQL basics including joins, nested queries, subqueries, aggregate functions, and grouping to efficiently retrieve and analyze data. |
-| 🧽 **[Data Cleaning](https://github.com/yourusername/your-repo-name/blob/main/sql_data_cleaning.ipynb)** | May 2025 | SSMS, Jupyter Notebook | Demonstrated SQL-based data cleaning by identifying nulls, duplicates, invalid entries, and inconsistent formats. Applied fixes and transformations to prepare clean, reliable data. |
+| 🧽 **[SQL Data Cleaning](https://github.com/yourusername/your-repo-name/blob/main/sql_data_cleaning.ipynb)** | April 2025 | SSMS, Jupyter Notebook | Demonstrated SQL-based data cleaning by identifying nulls, duplicates, invalid entries, and inconsistent formats. Applied fixes and transformations to prepare clean, reliable data. |
