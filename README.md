@@ -22,9 +22,14 @@ Explore my Machine Learning projects, where I apply various algorithms to solve 
 | 🏡 **[Multiple Linear Regression with Dummies](https://github.com/anishaisv/Machine-Learning/blob/main/Multiple%20Linear%20Regression%20with%20Dummies%20Exercise-checkpoint.ipynb)** | [Insert Date] | Python, Pandas, Scikit-learn, Jupyter Notebook | Implemented a multiple linear regression model to predict real estate prices using 'size', 'year', and a dummy variable for 'view'. Evaluated the model's distribution using key performance metrics. |
 | 🔴 **[Customer Churn Prediction](https://github.com/anishaisv/Machine-Learning/blob/main/customer%20churn%20prediction-checkpoint.ipynb)** | May 2021 | Python, Scikit-learn, Pandas, Matplotlib, Seaborn | Built a model to predict customer churn using demographic and usage data. Applied classification algorithms (Logistic Regression, Decision Trees) and evaluated model performance. Visualized key features influencing churn and assessed the distribution of features with histograms. |
 
-### ⚙️ Python Projects
+### ⚙️ Python Learning
 
 Explore my Python projects, where I leverage the power of Python programming to tackle real-world challenges. By utilizing libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn, I create impactful solutions that drive data-driven decision-making and problem-solving.
 
-
+| Project | Completion Date | Tools Used | Description |
+|---------|-----------------|------------|-------------|
+| 📥 **[Data Importing & Web Scraping](https://github.com/anishaisv/Python/blob/master/Data%20Importing/Data%20Importing.ipynb)** | May 2025 | Python, Pandas, pyodbc, BeautifulSoup, requests, opendatasets | Demonstrated data import from CSV, Excel, JSON, SQL Server, web pages, and APIs using Pandas, pyodbc, BeautifulSoup, and opendatasets for flexible and automated data access. |
+| 🧼 **[Data Cleaning](https://github.com/anishaisv/Python/blob/master/Data%20Preprocessing/Data%20Cleaning/Data%20Cleaning%201.ipyn)** | May 2025 | Pandas, NumPy, Seaborn, Jupyter Notebook | Cleaned a sample dataset by identifying, visualizing, and handling missing values using Pandas and Seaborn. |
+| 🛠️ **[Data Manipulation](https://github.com/anishaisv/Python/blob/master/Data%20Preprocessing/Data%20Manipulation/Data%20manipulation.ipynb)** | May 2025 | Python, Pandas, Jupyter Notebook | Cleaned and structured a dataset by checking data types, renaming columns, formatting text, sorting, and filtering records to enhance readability and analysis. |
+| 📊 **[Data Visualization]** | May 2025 | Python, Matplotlib, Seaborn, Jupyter Notebook | Created visualizations using line charts, subplots, boxplots, and scatterplots. Customized plot styles to enhance clarity and insight. |
 
