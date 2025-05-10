@@ -49,3 +49,14 @@ Dive into my SQL learnings, where I apply core database concepts to extract, cle
 | 📝 **[SQL Basics commands](https://github.com/anishaisv/SQL/blob/master/Basic%20Commands%20in%20SQL.sql)** | April 2025 | SSMS | Explored SQL basics including joins, aggregate functions, and grouping to efficiently retrieve and analyze data. |
 | 🔍 **[SQL Subqueries](https://github.com/anishaisv/SQL/blob/master/Subquerries.sql)** | April 2025 | SSMS | Focused on advanced SQL subqueries, including correlated and non-correlated subqueries for filtering and aggregating data across multiple tables and Nested querries |
 | 🧽 **[SQL Data Cleaning & Transformation](https://github.com/anishaisv/SQL/blob/master/Data%20Cleaning%20in%20SQL.sql)** | April 2025 | SSMS, Jupyter Notebook | Demonstrated SQL-based data cleaning by identifying nulls, duplicates, invalid entries, and inconsistent formats. Applied fixes and transformations to prepare clean, reliable data. |
+
+
+### 📊 Excel Data Analytics Projects
+
+Hands-on Excel projects showcasing my ability to clean data, apply formulas, create summaries using PivotTables, and design interactive dashboards. These tasks reflect practical business scenarios where data-driven decision-making is essential.
+
+| Project | Completion Date | Tools Used | Description |
+|---------|-----------------|------------|-------------|
+| 🎬 **[StreamFlix Dashboard](https://github.com/anishaisv/Excel/blob/master/StreamFlix%20Dashboard.xlsx)** | April 2025 | Excel | Built an interactive dashboard using PivotTables, slicers, and charts to visualize watch time by genre, revenue by subscription type, and country-wise engagement. Emphasized interactivity and data formatting for business insights. |
+| 👥 **[GenTech HR Data Analysis](https://github.com/anishaisv/Excel/blob/master/GenTech%20HR%20Dashboard.xlsx)** | April 2025 | Excel | Cleaned and transformed employee records, applied lookup and conditional functions, summarized data by department, and created a professional dashboard to evaluate salary distribution, training trends, and performance ratings. |
+
