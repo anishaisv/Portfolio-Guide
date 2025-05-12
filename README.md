@@ -36,7 +36,7 @@ Explore my Python projects, where I leverage the power of Python programming to 
 | 📥 **[Data Importing & Web Scraping](https://github.com/anishaisv/Python/blob/master/Data%20Importing/Data%20Importing.ipynb)** | May 2025 | Python, Pandas, pyodbc, BeautifulSoup, requests, opendatasets | Demonstrated data import from CSV, Excel, JSON, SQL Server, web pages, and APIs using Pandas, pyodbc, BeautifulSoup, and opendatasets for flexible and automated data access. |
 | 🧼 **[Data Cleaning](https://github.com/anishaisv/Python/blob/master/Data%20Preprocessing/Data%20Cleaning/Data%20Cleaning%201.ipynb)** | May 2025 | Pandas, NumPy, Seaborn, Jupyter Notebook | Cleaned a sample dataset by identifying, visualizing, and handling missing values using Pandas and Seaborn. |
 | 🛠️ **[Data Manipulation](https://github.com/anishaisv/Python/blob/master/Data%20Preprocessing/Data%20Manipulation/Data%20manipulation.ipynb)** | May 2025 | Python, Pandas, Jupyter Notebook | Cleaned and structured a dataset by checking data types, renaming columns, formatting text, sorting, and filtering records to enhance readability and analysis. |
-| 📊 **[Data Visualization]** | May 2025 | Python, Matplotlib, Seaborn, Jupyter Notebook | Created visualizations using line charts, subplots, boxplots, and scatterplots. Customized plot styles to enhance clarity and insight. |
+| 📊 **[Data Visualization](https://github.com/anishaisv/Python/blob/master/Data%20Visualization/Data%20Visualization%20heart_disease.ipynb)** | May 2025 | Python, Matplotlib, Seaborn, Jupyter Notebook | Created visualizations using line charts, subplots, boxplots, and scatterplots. Customized plot styles to enhance clarity and insight. |
 
 
 ### 🗄️ SQL Learning
